@@ -8,3 +8,5 @@
 *.docx
 *.html
 tmp/**
+tmp2/**
+Embeddings/**
